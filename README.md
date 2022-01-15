@@ -12,3 +12,7 @@ All the files as well as the documents are shared once we confirm the reception 
 
 - AMSAT Nepal
 - AMSAT EA
+
+# Useful Websites
+- https://orionspace.com.np/sanosat-1/
+- https://amsat-np.org/
